@@ -1,0 +1,41 @@
+{
+  "bolsensays": [
+    "Its not going to fucking work",
+    "Just scrap the code",
+    "It’s all fucking bullshit anyway",
+    "Works on my machine",
+    "I couldn’t see an issue with my code",
+    "I am looking into this already",
+    "I guess I’ll follow up with Neil",
+    "Fuck I’ve broken dev again",
+    "I don’t know I guess ask Neil"
+  ],
+  "bolsentech": [
+    "What do you recommend, Ben?",
+    "Ben can you help?",
+    "Hey Bolsen any idea?",
+    "Ben can you fix it?",
+    "Fix it please?",
+    "Fix it",
+    "Can you help?",
+    "Thoughts?",
+    "Any idea?"
+  ],
+  "bolsenramblings": [
+    "What should we have for lunch?",
+    "How do you feel about the roadmap?",
+    "Tell us about New Zealand",
+    "Where in the world are you today?"
+  ],
+  "bart": [
+    "When does the next Bart leave?",
+    "Bart times",
+    "Bart departure"
+  ],
+  "hello": [
+    "hi",
+    "hello",
+    "howdy",
+    "hey there"
+  ]
+}

@@ -1,10 +1,11 @@
-# bottie
-##Simple BotKit bot with NLP
+# bolsenbot
+##In Loving Memory of Ben Olsen, an amazing contractor who helped build the foundation of Sentient Ascend.
 
-###*Original blog post avaliable on Andrew Templeton's blog:* 
+###*This is a bot module borrowed from the blog post below:* 
 
 http://blog.templeton.host/self-training-nlp-enabled-slack-bot-tutorial/
 
+In order to run your own bolsenbot on your machine for training or development purposes:
 
 <br><br>
 ##**Step 1** - Get Your Slack Bot Token
